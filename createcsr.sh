@@ -1,3 +1,4 @@
+
 #! /bin/bash
 # syntax is
 # ./createcsr.sh 1.1.1.1 2.2.2.2 65000 configfile
